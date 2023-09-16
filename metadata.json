@@ -1,0 +1,14 @@
+{
+    "name": "JPUtils",
+    "entry": "jputils.js",
+    "author": "JPMB2017 & TR0LPlays",
+    "description": "A few QOL features to improve the gameplay.
+/aw to enable auto-warp for both Normal and Master-Mode (No Kuudra cuz dt to open chest).
+/fb to disable FallingBlocks.
+/fishingutils to disable.
+/vanq to disable Vanquisher Alert.
+/golempq to disable Auto-PQ toggle.
+/kft to enable Kuudra Features.
+/autosb to toggle auto-rejoin SkyBlock.",
+    "version": "1.0.0"
+}
